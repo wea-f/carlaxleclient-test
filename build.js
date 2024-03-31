@@ -1,4 +1,4 @@
-;(() => {
+(() => {
     var __webpack_modules__ = {
             7207: (e, n, t) => {
                 'use strict'
